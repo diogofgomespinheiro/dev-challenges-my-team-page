@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://diogofgomespinheiro.github.io/dev-challenges-my-team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/diogofgomespinheiro/dev-challenges-my-team-page">
       Solution
     </a>
     <span> | </span>
@@ -39,16 +39,24 @@
 
 ### Built With
 
+- HTML5
+- CSS3
+
+<br>
+
 
 ## Features
 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
+<br>
 
 ## Acknowledgements
 
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+<br>
 
 ## Contact
 
