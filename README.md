@@ -42,21 +42,17 @@
 - HTML5
 - CSS3
 
-<br>
-
 
 ## Features
 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
-<br>
 
 ## Acknowledgements
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-<br>
 
 ## Contact
 
